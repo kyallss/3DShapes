@@ -25,4 +25,7 @@ Unified Handling of Different Shapes:
 Dynamic Method Dispatch:
 - The methods surfaceArea() and volume() are called on the interface reference, but the actual implementation invoked is determined by the runtime type of the object.
 
+![Screenshot 2024-12-08 234646](https://github.com/user-attachments/assets/4ddf8477-2d6a-44e7-a401-3a76e6a989e3)
+![Screenshot 2024-12-08 234559](https://github.com/user-attachments/assets/eb76ad93-e189-46bf-a9ba-aefbe4512d82)
+![Screenshot 2024-12-08 233712](https://github.com/user-attachments/assets/fa514e32-a315-484c-9d50-054971543828)
 
